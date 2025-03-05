@@ -5,4 +5,7 @@
 
 ![noqx](https://github-readme-stats.vercel.app/api/top-langs?username=noqxdev&show_icons=true&theme=github_dark&layout=compact)
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/762369056594198609)](https://discord.com/users/762369056594198609)
+
+
 <!-- bye 2024 ~noqx --!> 
