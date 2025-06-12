@@ -3,7 +3,4 @@
 
 
 
-![noqx](https://github-readme-stats.vercel.app/api/top-langs?username=noqx78&show_icons=true&theme=github_dark&layout=compact)
 
-
-<!-- bye 2024 ~noqx --!> 
