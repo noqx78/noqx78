@@ -1,6 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EFEF&width=435&lines=noqx78)](https://www.belastend.ch)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&width=435&lines=%24+noqx)](https://git.io/typing-svg)
+interest
 
-
-
-
+[![My Skills](https://skillicons.dev/icons?i=next,tailwind,mysql,firebase,ts,cpp,windows,&perline=4)](https://skillicons.dev)
