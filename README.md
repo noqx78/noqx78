@@ -4,4 +4,4 @@
 
 
 ## Interests  
-[![My Skills](https://skillicons.dev/icons?i=next,tailwind,mysql,firebase,ts,cs&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,tailwind,mysql,firebase,ts,cs,cpp&perline=4)](https://skillicons.dev)
