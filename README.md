@@ -6,7 +6,7 @@
 
 Interests  
 
-[![My Skills](https://skillicons.dev/icons?i=next,tailwind,mysql,firebase,ts,cs,cpp&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,ts,cs,cpp&perline=3)](https://skillicons.dev)
 
 <!-- <img src="https://i.imgur.com/IVMOc8B.gif" width="500" /> -->
 
