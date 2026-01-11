@@ -1,8 +1,22 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EFEF&width=435&lines=noqx78)]() -->
 
+# noqx
+
+### Aspiring Software Developer
+
+---
+
+```typescript
+const identity = {
+  age: 16,
+  location: "Switzerland 🇨🇭",
+  education: "Software Developer Student",
+  stack: ["TypeScript", "Next.js", "React"]
+};
+```
 
 
-Interests  
+<!-- Interests  
 
 [![My Skills](https://skillicons.dev/icons?i=next,react,tailwind,ts,cs,cpp&perline=3)](https://skillicons.dev)
 
