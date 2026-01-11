@@ -1,7 +1,7 @@
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7EFEF&width=435&lines=noqx78)]() -->
 
 ### Aspiring Software Developer
-![](https://komarev.com/ghpvc/?username=noqx78&color=007acc&style=flat)
+<!-- ![](https://komarev.com/ghpvc/?username=noqx78&color=007acc&style=flat) -->
 ---
 
 ```typescript
