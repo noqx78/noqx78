@@ -5,7 +5,7 @@
 ---
 
 ```typescript
-const identity = {
+const noqx = {
   age: 16,
   location: "Switzerland 🇨🇭",
   education: "Software Developer Student",
