@@ -4,6 +4,11 @@
 <!-- ![](https://komarev.com/ghpvc/?username=noqx78&color=007acc&style=flat) -->
 ---
 
+![picmix com_2170796](https://github.com/user-attachments/assets/9eb5e1c9-24d8-459b-96fe-a072fad16469)
+
+
+
+<!--
 ```typescript
 const noqx = {
   age: 16,
@@ -12,7 +17,7 @@ const noqx = {
   stack: ["TypeScript", "Next.js", "React"]
 };
 ```
-
+-->
 
 <!-- Interests  
 
